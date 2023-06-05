@@ -1,0 +1,15 @@
+{
+    "name": "Start Your Day",
+    "version": "1.0.0",
+    "description": "Set your full day schedule and get notified about your task",
+    "manifest_version": 2,
+    "author": "Ashutosh Ranjan",
+    "browser_action":{
+        "default_popup": "index.html",
+        "default_title": "Start your day by adding todo"
+    },
+    "icons": {
+        "128": "task-list.png"
+    }
+
+}
